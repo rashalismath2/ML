@@ -1,0 +1,66 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs / Editors
+.vscode/
+.idea/
+
+# Jupyter specific exports
+*.nbconvert.ipynb
+
+# Data files (optional - uncomment if needed)
+# *.csv
+# *.tsv
+# *.xlsx
+# data/
+
+# Model files (optional)
+# *.h5
+# *.pt
+# *.pth
+
+# Environment variables
+.env.local
+.env.*.local
+
+# Temporary files
+*.tmp
+*.temp
